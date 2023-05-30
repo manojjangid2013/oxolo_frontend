@@ -1,0 +1,10 @@
+.active {
+  font-weight: 800;
+  color: white;
+}
+.pending {
+  font-weight: 500;
+}
+.normal {
+  color: white;
+}
